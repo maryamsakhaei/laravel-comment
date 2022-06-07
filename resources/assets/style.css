@@ -14,6 +14,11 @@ time, mark, audio, video {
 *{
     font-family: IRANSans;
 }
+body {
+  height:820px;
+  background-color: #252acd;
+  background-image: linear-gradient(to right, #005aff , #00ff66);
+}
 @font-face {
     font-family: IRANSans;
     font-style: normal;
@@ -399,11 +404,7 @@ a{
     border: 1px solid white !important;
     margin-right: 50px !important;
   }
-  /*=============== search blade=====*/
-body {
-  height:820px;
-  background-color: #252acd;
-  background-image: linear-gradient(to right, #005aff , #00ff66);
-}
+
+
 
 
